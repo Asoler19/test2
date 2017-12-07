@@ -1,0 +1,19 @@
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    border:1px;
+    background-color: black;
+    justify-content: space-around;
+}
+
+.circle{
+    border: 1px solid black;
+    border-radius: 100%;
+    background: yellow;
+    margin:5px;
+    width: 300px;
+    height: 300px;
+    
+}
+
